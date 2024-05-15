@@ -2,7 +2,7 @@
 
 Build a Responsive Landing Page Course Website using React JS & TailwindCSS
 
-## [View Demo](https://coursat-xdcode.netlify.app/ "coursat website")
+## [View Demo](https://ps-coursat-website.netlify.app/ "coursat website")
 
 ![Course Website](./public/Course%20Website.png)
 
