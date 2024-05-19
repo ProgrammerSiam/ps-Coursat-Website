@@ -1,11 +1,11 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://i.ibb.co/cFXB0jj/banner.jpg" alt="Project Banner">
     </a>
   <br />
 
-  <h3 align="center">Flow Website</h3>
+  <h3 align="center">Coursat Website</h3>
 
 </div>
 
